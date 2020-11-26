@@ -1,0 +1,6 @@
+framework module Pods_AdvancedTaskListApp {
+  umbrella header "Pods-AdvancedTaskListApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
